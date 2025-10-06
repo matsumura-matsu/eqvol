@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>【テスト用】気象庁防災情報XML 地震・火山情報</title>
+  <id>https://your-github-username.github.io/your-repo-name/test-data/eqvol.xml</id>
+  <updated>2025-10-06T10:00:00Z</updated>
+  
+  <!-- シナリオ1: 首都直下地震 -->
+  <entry>
+    <title>震度速報</title>
+    <id>urn:jma:test:20251006100000_scenario1</id>
+    <updated>2025-10-06T10:00:00Z</updated>
+    <author><name>気象庁（テスト）</name></author>
+    <link rel="alternate" type="text/xml" 
+          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario1_earthquake.xml"/>
+    <content type="text">最大震度6強 東京都で地震</content>
+  </entry>
+
+  <!-- シナリオ2: 南海トラフ地震 -->
+  <entry>
+    <title>震度速報</title>
+    <id>urn:jma:test:20251006100030_scenario2</id>
+    <updated>2025-10-06T10:00:30Z</updated>
+    <author><name>気象庁（テスト）</name></author>
+    <link rel="alternate" type="text/xml" 
+          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario2_earthquake.xml"/>
+    <content type="text">最大震度6弱 大阪府で地震</content>
+  </entry>
+
+  <!-- シナリオ3: 閾値未満地震 -->
+  <entry>
+    <title>震度速報</title>
+    <id>urn:jma:test:20251006100100_scenario3</id>
+    <updated>2025-10-06T10:01:00Z</updated>
+    <author><name>気象庁（テスト）</name></author>
+    <link rel="alternate" type="text/xml" 
+          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario3_earthquake.xml"/>
+    <content type="text">最大震度4 北海道で地震</content>
+  </entry>
+
+</feed>
