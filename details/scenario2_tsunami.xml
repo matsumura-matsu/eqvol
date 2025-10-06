@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/">
+  <Head>
+    <Title>津波警報</Title>
+    <ReportDateTime>2025-10-06T19:02:00+09:00</ReportDateTime>
+    <EventID>test_tsunami_scenario2_20251006190200</EventID>
+    <InfoType>発表</InfoType>
+    <Serial>1</Serial>
+  </Head>
+  <Body>
+    <Tsunami>
+      <Forecast>
+        <Area>
+          <Name>大阪湾</Name>
+          <Category>
+            <Kind>
+              <Name>津波警報</Name>
+              <Code>52</Code>
+            </Kind>
+          </Category>
+          <MaxHeight>
+            <jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="津波の高さ">2</jmx_eb:TsunamiHeight>
+          </MaxHeight>
+          <FirstHeight>
+            <ArrivalTime>2025-10-06T19:32:00+09:00</ArrivalTime>
+          </FirstHeight>
+        </Area>
+        <Area>
+          <Name>伊勢湾</Name>
+          <Category>
+            <Kind>
+              <Name>津波警報</Name>
+              <Code>52</Code>
+            </Kind>
+          </Category>
+          <MaxHeight>
+            <jmx_eb:TsunamiHeight type="津波の高さ" unit="m" description="津波の高さ">1.5</jmx_eb:TsunamiHeight>
+          </MaxHeight>
+          <FirstHeight>
+            <ArrivalTime>2025-10-06T19:45:00+09:00</ArrivalTime>
+          </FirstHeight>
+        </Area>
+      </Forecast>
+    </Tsunami>
+  </Body>
+</Report>

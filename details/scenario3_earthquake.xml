@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/">
+  <Head>
+    <Title>震度速報</Title>
+    <ReportDateTime>2025-10-06T19:01:00+09:00</ReportDateTime>
+    <EventID>test_scenario3_20251006190100</EventID>
+    <InfoType>発表</InfoType>
+    <Serial>1</Serial>
+  </Head>
+  <Body>
+    <Intensity>
+      <Observation>
+        <MaxInt>4</MaxInt>
+        <Pref>
+          <Name>北海道</Name>
+          <MaxInt>4</MaxInt>
+          <Area>
+            <Name>石狩地方中部</Name>
+            <MaxInt>4</MaxInt>
+            <City>
+              <Name>札幌市</Name>
+              <MaxInt>4</MaxInt>
+            </City>
+          </Area>
+        </Pref>
+      </Observation>
+    </Intensity>
+    <Earthquake>
+      <OriginTime>2025-10-06T19:01:00+09:00</OriginTime>
+      <Hypocenter>
+        <Name>胆振地方中東部</Name>
+        <Coordinate>+42.7+141.9-40000/</Coordinate>
+      </Hypocenter>
+      <Magnitude>
+        <jmx_eb:Magnitude type="MJMA" description="マグニチュード">4.5</jmx_eb:Magnitude>
+      </Magnitude>
+    </Earthquake>
+  </Body>
+</Report>
