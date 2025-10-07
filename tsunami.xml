@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>【テスト用】気象庁防災情報XML 津波情報</title>
-  <id>https://your-github-username.github.io/your-repo-name/test-data/tsunami.xml</id>
+  <id>https://matsumura-matsu.github.io/eqvol/tsunami.xml</id>
   <updated>2025-10-06T10:00:00Z</updated>
   
   <!-- シナリオ2: 南海トラフ津波 -->
@@ -11,7 +11,7 @@
     <updated>2025-10-06T10:02:00Z</updated>
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
-          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario2_tsunami.xml"/>
+          href="https://matsumura-matsu.github.io/eqvol/details/scenario2_tsunami.xml"/>
     <content type="text">津波警報 大阪湾 伊勢湾</content>
   </entry>
 
