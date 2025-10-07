@@ -11,7 +11,7 @@
     <updated>2025-10-06T10:00:00Z</updated>
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
-          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario1_earthquake.xml"/>
+          href="https://matsumura-matsu.github.io/eqvol/details/scenario1_earthquake.xml"/>
     <content type="text">最大震度6強 東京都で地震</content>
   </entry>
 
@@ -22,7 +22,7 @@
     <updated>2025-10-06T10:00:30Z</updated>
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
-          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario2_earthquake.xml"/>
+          href="https://matsumura-matsu.github.io/eqvol/details/scenario2_earthquake.xml"/>
     <content type="text">最大震度6弱 大阪府で地震</content>
   </entry>
 
@@ -33,7 +33,7 @@
     <updated>2025-10-06T10:01:00Z</updated>
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
-          href="https://your-github-username.github.io/your-repo-name/test-data/details/scenario3_earthquake.xml"/>
+          href="https://matsumura-matsu.github.io/eqvol/details/scenario3_earthquake.xml"/>
     <content type="text">最大震度4 北海道で地震</content>
   </entry>
 
