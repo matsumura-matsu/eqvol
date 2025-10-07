@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>【テスト用】気象庁防災情報XML 地震・火山情報</title>
-  <id>https://your-github-username.github.io/your-repo-name/test-data/eqvol.xml</id>
+  <id>https://matsumura-matsu.github.io/eqvol/eqvol.xml</id>
   <updated>2025-10-06T10:00:00Z</updated>
   
   <!-- シナリオ1: 首都直下地震 -->
