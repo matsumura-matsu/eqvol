@@ -12,7 +12,7 @@
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
           href="https://matsumura-matsu.github.io/eqvol/details/scenario1_earthquake.xml"/>
-    <content type="text">最大震度4強 東京都で地震</content>
+    <content type="text">最大震度6強 東京都で地震</content>
   </entry>
 
   <!-- シナリオ2: 南海トラフ地震 -->
@@ -23,7 +23,7 @@
     <author><name>気象庁（テスト）</name></author>
     <link rel="alternate" type="text/xml" 
           href="https://matsumura-matsu.github.io/eqvol/details/scenario2_earthquake.xml"/>
-    <content type="text">最大震度4弱 大阪府で地震</content>
+    <content type="text">最大震度6弱 大阪府で地震</content>
   </entry>
 
   <!-- シナリオ3: 閾値未満地震 -->
